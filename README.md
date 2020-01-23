@@ -31,7 +31,13 @@ Zapachami kodu (ang. Code Smells) nazywamy takie cechy kodu, które świadczą o
 # Refaktoryzowany program - Labirynt
 
 ## O prokekcie
-Program to prosta gra w la
+Program to prosta gra w labirynt zrealizowana w konsoli.
+
+## Narzędzie użyty do automatyzacji rekatoryzacji
+### Lizard
+Proste narzędznie do analizy złożoności cyklomatyczniej kodu
+
+## Fragmety kodu po refaktoryzacji
 ```cpp
 char Maze_set_uper(int Switcher)
 {
